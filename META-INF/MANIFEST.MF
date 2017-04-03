@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Class-Path: spring-boot-starter-1.4.5.RELEASE.jar springfox-spring-web
+ -2.6.1.jar spring-boot-starter-web-1.5.2.RELEASE.jar swagger-models-1
+ .5.10.jar jackson-core-2.8.7.jar spring-boot-starter-logging-1.4.5.RE
+ LEASE.jar spring-boot-1.4.5.RELEASE.jar springfox-swagger-common-2.6.
+ 1.jar spring-webmvc-4.3.7.RELEASE.jar springfox-schema-2.6.1.jar jcl-
+ over-slf4j-1.7.24.jar hibernate-validator-5.2.4.Final.jar spring-web-
+ 4.3.7.RELEASE.jar springfox-swagger2-2.6.1.jar logback-core-1.1.11.ja
+ r jackson-annotations-2.8.7.jar logback-classic-1.1.11.jar log4j-over
+ -slf4j-1.7.24.jar spring-boot-autoconfigure-1.4.5.RELEASE.jar snakeya
+ ml-1.17.jar jboss-logging-3.3.0.Final.jar spring-plugin-core-1.2.0.RE
+ LEASE.jar spring-expression-4.3.7.RELEASE.jar jul-to-slf4j-1.7.24.jar
+  mapstruct-1.0.0.Final.jar tomcat-embed-el-8.5.11.jar spring-beans-4.
+ 3.7.RELEASE.jar slf4j-api-1.7.24.jar spring-boot-starter-tomcat-1.4.5
+ .RELEASE.jar spring-aop-4.3.7.RELEASE.jar validation-api-1.1.0.Final.
+ jar classmate-1.3.3.jar springfox-core-2.6.1.jar spring-context-4.3.7
+ .RELEASE.jar springfox-swagger-ui-2.6.1.jar swagger-annotations-1.5.1
+ 0.jar tomcat-embed-websocket-8.5.11.jar spring-plugin-metadata-1.2.0.
+ RELEASE.jar tomcat-embed-core-8.5.11.jar guava-18.0.jar jackson-datab
+ ind-2.8.7.jar spring-core-4.3.7.RELEASE.jar springfox-spi-2.6.1.jar
+Main-Class: com.Blue.BluewebApplication
+
